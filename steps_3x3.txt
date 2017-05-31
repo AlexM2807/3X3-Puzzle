@@ -1,0 +1,35 @@
+
+Moved Up
+Moved Left
+Moved Down
+Moved Right
+Moved Right
+Moved Down
+Moved Left
+Moved Left
+Moved Up
+Moved Right
+Moved Up
+Moved Right
+Moved Down
+Moved Left
+Moved Down
+Moved Right
+Moved Up
+Moved Left
+Moved Left
+Moved Up
+
+[7, 2, 4, 5, 0, 6, 8, 3, 1]
+END GAME
+Cost = 20
+Fringe : 13853
+Closed : 35166
+Time : 0.106878356
+
+
+END GAME
+Cost = 20
+Fringe : 13853
+Closed : 35166
+Time : 0.127128008
